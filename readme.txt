@@ -1,2 +1,1 @@
-Git is a distributed version control system. 
-Fit is free software,
+Fit is a distributed version conytrol system.
